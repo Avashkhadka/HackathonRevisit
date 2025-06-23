@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "question": "Who can participate in the hackathon?",
+    "answer": " This hackathon is exclusively for undergraduate students."
+  },
+  {
+    "id": 2,
+    "question": "Do I need to be from a specific academic background to join?",
+    "answer": "Nope! Students from any academic background are welcome to participate."
+  },
+  {
+    "id": 3,
+    "question": "Will travel expenses be covered by the hackathon?",
+    "answer": "Unfortunately, travel expenses will not be covered by the organizers."
+  },
+  {
+    "id": 4,
+    "question": "I'm a beginner. Can I still join?",
+    "answer": "Yes! Beginners are encouraged to participate — it’s a great opportunity to learn and grow."
+  },
+  {
+    "id": 5,
+    "question": "Will we have any mentors or guidance during the event?",
+    "answer": "Definitely! Every team will be assigned a mentor to guide and support them throughout the hackathon."
+  },
+  {
+    "id": 6,
+    "question": "How many teams will be selected for the final hackathon?",
+    "answer": "A total of 20 teams will be selected after the initial screening round."
+  },
+  {
+    "id": 7,
+    "question": "Can I participate alone? What's the team size?",
+    "answer": "Teams must have 3 to 5 members. Solo participation is not allowed."
+  }
+]
