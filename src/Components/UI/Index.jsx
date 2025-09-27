@@ -22,7 +22,7 @@ function Index() {
           <div>
             <Hero targetDate={targetDate} />
             <Faq />
-            <div className="main"></div>
+          
           
           </div>
         </div>
